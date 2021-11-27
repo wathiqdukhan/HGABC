@@ -1,0 +1,1 @@
+RUN : 1 , TERMLIM : -1 , DSTLIM : 1, pCrossover : 0.8, pMutation : 0.2 , mu : 0.01
